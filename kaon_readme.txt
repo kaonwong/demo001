@@ -16,7 +16,7 @@ npm start
 1.npm run build
 2.Copy index.html and /dist/ folder into your website root directory. Done.
 
-test 222 333
+test 222 333 fdsaf
 =======
 ---1.install vue
 npm install -g vue-cli
